@@ -20,3 +20,19 @@
 * ReverseMatrix : Reverses the rows or elements of a matrix
 * RotateMatrix : Rotates a matrix by 90 degrees
 * SpiralMatrix : Prints matrix elements in spiral order
+* FirstNonRepeatingCharacter : Finds the first character that appears only once in a string
+* LongestCommonSubSequence : Finds the longest subsequence common to two strings
+* LongestPallindromeSubString : Finds the longest palindromic substring in a given string
+* LongestSubStringWithoutRepeatingCharacter : Finds the longest substring with no repeating characters
+* MinimumWindowSubString : Finds the smallest substring containing all characters of another string
+* RemoveDuplicates : Removes duplicate characters or elements from the input
+* ValidParanthesis : Checks whether the given parentheses expression is balanced and valid
+* CheckAnagram : Checks whether two strings are anagrams of each other
+* GroupAnagram : Groups words that are anagrams into the same collection
+* LeaderInAnArray : Finds all elements that are greater than every element to their right
+* LongestCommonPrefix : Finds the longest common starting prefix among multiple strings
+* Pallindrome : Checks whether a string or number is a palindrome
+* PassWordGenerator : Generates a random password based on specified criteria
+* RemoveVowel : Removes all vowels from a given string
+* ReplaceSubString : Replaces a specified substring with another substring
+* StringCompression : Compresses a string by replacing repeated characters with their counts
