@@ -36,3 +36,10 @@
 * RemoveVowel : Removes all vowels from a given string
 * ReplaceSubString : Replaces a specified substring with another substring
 * StringCompression : Compresses a string by replacing repeated characters with their counts
+* DecodeString : Decodes an encoded string based on the given pattern or rules
+* LinkedListCountELement : Counts the total number of elements in a linked list
+* PermutationOfString : Generates all possible permutations of a string
+* ReplaceNodeAtGivenIndexinCircularLL : Replaces a node at a specified index in a circular linked list
+* ReplaceNodeAtGivenPosition : Replaces a node at a specified position in a linked list
+* ReverseDoubly : Reverses a doubly linked list
+* rotateString : Rotates a string by a given number of positions
